@@ -15,3 +15,4 @@ Spoken Language Processing draws on the latest advances and techniques from mult
 
 
 ## References
+1. [Google Language Support](https://cloud.google.com/speech-to-text/docs/languages)
